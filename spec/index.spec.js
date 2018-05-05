@@ -15,7 +15,7 @@
  */
 //
 const when = require('../').default
-const interval = require('rxjs/observable/interval').interval
+const interval = require('rxjs').interval
 const map = require('rxjs/operators').map
 const take = require('rxjs/operators').take
 

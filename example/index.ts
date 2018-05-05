@@ -15,7 +15,7 @@
 ;
 import when from '../'
 import log from './console'
-import { interval } from 'rxjs/observable/interval'
+import { interval } from 'rxjs'
 import { map, take } from 'rxjs/operators'
 
 interval(1000).pipe(

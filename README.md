@@ -34,7 +34,7 @@ merge(
 ```
 see the above [example](./example/index.ts) in this directory.
 run the example in your browser locally with `npm run example`
-or [online here](https://cdn.rawgit.com/ZenyWay/rx-when/v1.0.0/example/index.html).
+or [online here](https://cdn.rawgit.com/ZenyWay/rx-when/v1.0.1/example/index.html).
 
 # API
 ```ts
